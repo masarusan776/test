@@ -26,3 +26,4 @@ startメニュー
 ザンプ
 プロパティ
 Illustrator
+Titanium mobile
