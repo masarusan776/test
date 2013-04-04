@@ -27,3 +27,4 @@ startメニュー
 プロパティ
 Illustrator
 Titanium mobile
+Ruby
